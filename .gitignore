@@ -1,0 +1,6 @@
+# 환경 설정 파일
+.env
+hdhs-crawling-d488dd679241.json
+
+# 로그 파일
+.ipynb_checkpoints
